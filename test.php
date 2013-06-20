@@ -41,4 +41,6 @@ class b implements a
 
 echo b::b;
 echo b::c;
+
+echo '<br/>test git';
 ?>
